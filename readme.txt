@@ -1,1 +1,1 @@
-Ê¹ÓÃÇ°£¬ÇëÖ´ĞĞ npm install cheerio ÃüÁî
+please execute npm install cheerio before you use itï¼
